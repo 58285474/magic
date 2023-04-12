@@ -1,0 +1,72 @@
+[
+  {
+    "pt_pin": "21971474-108615",
+    "remarks": "给我来个咸鸭蛋",
+    "address": {
+      "receiver": "J先生",
+      "phone": "13180815360",
+      "province": "吉林省",
+      "city": "长春市",
+      "county": "朝阳区",
+      "address": "新星宇左岸",
+      "postalCode": "130000",
+      "areaCode": "220104"
+    }
+  },
+  {
+    "pt_pin": "jd_781ec14bac648",
+    "remarks": "包子",
+    "address": {
+      "receiver": "J先生",
+      "phone": "13180815360",
+      "province": "吉林省",
+      "city": "长春市",
+      "county": "朝阳区",
+      "address": "新星宇左岸",
+      "postalCode": "130000",
+      "areaCode": "220104"
+    }
+  },
+  {
+    "pt_pin": "jd_eDmqvQnDyTtS",
+    "remarks": "小金牙",
+    "address": {
+      "receiver": "J先生",
+      "phone": "13180815360",
+      "province": "吉林省",
+      "city": "长春市",
+      "county": "朝阳区",
+      "address": "新星宇左岸",
+      "postalCode": "130000",
+      "areaCode": "220104"
+    }
+  },
+  {
+    "pt_pin": "%E4%BA%8C%E4%BA%8C%E7%9A%84%E7%BA%AA%E5%BF%B5%E5%93%81",
+    "remarks": "战战",
+    "address": {
+      "receiver": "J先生",
+      "phone": "13180815360",
+      "province": "吉林省",
+      "city": "长春市",
+      "county": "朝阳区",
+      "address": "新星宇左岸",
+      "postalCode": "130000",
+      "areaCode": "220104"
+    }
+  },
+   {
+    "pt_pin": "jd_654be1df3e710",
+    "remarks": "梦梦",
+    "address": {
+      "receiver": "J先生",
+      "phone": "13180815360",
+      "province": "吉林省",
+      "city": "长春市",
+      "county": "朝阳区",
+      "address": "新星宇左岸",
+      "postalCode": "130000",
+      "areaCode": "220104"
+    }
+  } 
+]
